@@ -1208,7 +1208,7 @@ task()
 def hello():
     print("Hello")
 
-a = hello
+a = hello             
 
 b = a
 
